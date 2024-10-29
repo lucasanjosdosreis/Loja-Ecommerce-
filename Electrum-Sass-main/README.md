@@ -1,10 +1,5 @@
 # Electrum - Loja Virtual 🛍️
 
-LandPage de loja virtual baseado em um e-commerce da vida real
-#
-* #### Deploy Netlify ☁️
-    * [Electrum E-commerce](https://e-commerce-electrum-bn.netlify.app/) 🛒💳
-#
 
 ### Skills
 
